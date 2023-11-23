@@ -16,6 +16,3 @@
 
 # 📊 GitHub stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypatel208&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-# 😁 Fun Fact Of The Day:
-<img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
