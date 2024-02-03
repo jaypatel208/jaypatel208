@@ -1,18 +1,41 @@
-# Hello 👋, I'm Jay:
-
-- 🌱 I’m currently learning **OpenCV**
-
-- 💬 Ask me about **Android,Java,Kotlin,KMM**
-
-- 📫 How to reach me **jay037493@gmail.com**
-
-# 🤝 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/jaypatel208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaypatel208" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15808334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15808334" height="30" width="40" /></a>
-<a href="https://medium.com/@jaypatel_208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jaypatel_208" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/jaypatel_208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jaypatel_208" height="30" width="40" /></a>
-</p>
-
-# 📊 GitHub stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypatel208&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <p float="left">
+    <img src="images/4.jpg" width="220" align="left">
+    <img src="images/66.jpg" width="220" align="right">
+  </p>
+  <div align="center">
+    <samp>
+      My stack:
+      <br>
+      Languages:  
+      <a href="https://kotlinlang.org/">Kotlin</a>, 
+      <a href="https://www.oracle.com/java/technologies/java-se-glance.html">Java</a>,
+      <a href="https://www.rust-lang.org/">Rust</a>
+      <br>
+      Systems: 
+      <a href="https://www.microsoft.com/en-us/windows/">Windows</a>, 
+      <a href="https://www.linux.org/">Linux</a>,
+      <a href="https://www.apple.com/in/mac/">Mac</a>
+      <br>
+      Databases: 
+      <a href="https://www.mysql.com/">SQL</a>
+      <br>   
+      <br>
+      Contact: 
+      <a href="mailto:jay037493@gmail.com">jay037493@gmail.com</a><br>
+      <br>
+      LinkedIn:
+      <a href="https://www.linkedin.com/in/jaypatel208/">jaypatel208</a><br>
+      Stackoverflow:
+      <a href="https://stackoverflow.com/users/15808334/jay-patel">users/15808334</a><br>
+      Medium:
+      <a href="https://medium.com/@jaypatel_208">@jaypatel_208</a><br>
+      <br>
+    </samp>
+  </div>
+  <img width="100px" src="https://komarev.com/ghpvc/?username=jaypatel208&style=flat-square&color=f47b67"/>
+  <br>
+  <br>
+    <img src="https://lanyard-profile-readme.vercel.app/api/1150418459755282432?hideDiscrim=true" alt="Discord Presence" align="center" width="240">
+  <br>
+</div>
