@@ -36,4 +36,7 @@
   <img width="100px" src="https://komarev.com/ghpvc/?username=jaypatel208&style=flat-square&color=f47b67"/>
   <br>
   <br>
+  <br>
+    <img src="https://lanyard-profile-readme.vercel.app/api/1259520083919638583?bg=0d1117&idleMessage=Drop%20a%20note!%20%3E;" alt="Discord Presence" align="center" width="300">
+  <br>
 </div>
