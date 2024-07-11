@@ -37,4 +37,6 @@
   <br>
   <br>
   <br>
+      <img src="https://lanyard-profile-readme.vercel.app/api/1259520083919638583?bg=2f3943&idleMessage=Drop%20a%20note!%20%3E;" alt="Discord Presence" align="center" width="300">
+  <br>
 </div>
