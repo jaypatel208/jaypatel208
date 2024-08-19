@@ -10,8 +10,8 @@
       Languages:  
       <a href="https://kotlinlang.org/">Kotlin</a>, 
       <a href="https://www.oracle.com/java/technologies/java-se-glance.html">Java</a>,
-      <a href="https://www.rust-lang.org/">JavaScript</a>
-      <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/">TypeScript</a>
+      <a href="https://www.rust-lang.org/">JavaScript</a>,
+      <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/">TypeScript</a>,
       <br>
       Systems: 
       <a href="https://www.microsoft.com/en-us/windows/">Windows</a>, 
@@ -19,7 +19,7 @@
       <a href="https://www.apple.com/in/mac/">Mac</a>
       <br>
       Databases: 
-      <a href="https://www.mysql.com/">SQL</a>
+      <a href="https://www.mysql.com/">SQL</a>,
       <a href="https://www.postgresql.org/">PostgreSQL</a>
       <br>   
       <br>
