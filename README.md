@@ -25,7 +25,7 @@
       <br>   
       <br>
       Contact: 
-      <a href="mailto:jay037493@gmail.com">jay037493@gmail.com</a><br>
+      <a href="mailto:jay037493@gmail.com">workbyjd@gmail.com</a><br>
       <br>
       LinkedIn:
       <a href="https://www.linkedin.com/in/jaypatel208/">jaypatel208</a><br>
