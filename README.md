@@ -41,4 +41,7 @@
   <br>
   <img width="250px" src="https://www.codewars.com/users/jaypatel_208/badges/large"/>
   <br>
+  <br>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RkMzdmMzF1dXNtenI5ZGV5ZDBvdzVqdDQ1dm9hYWc3c2FhbXBvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EMpPEre2PqFy8GkOZE/giphy.gif" width="227" height="127" />
+  <br>
 </div>
