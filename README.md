@@ -38,7 +38,7 @@
       <br>
     </samp>
   </div>
-  <img src="https://lanyard.cnrad.dev/api/1259520083919638583?showDisplayName=true&bg=202277&idleMessage=%E0%A4%A8%20%E0%A4%B9%E0%A4%BF%20%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A3%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%95%E0%A4%B6%E0%A5%8D%E0%A4%9A%E0%A4%BF%E0%A4%A6%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A4%E0%A4%BF%E0%A4%82%20%E0%A4%A4%E0%A4%A4%E0%A5%8D%20%E0%A4%97%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%A4%E0%A4%BF%20%20%E2%9C%A8" width="227" height="127" />
+  <img src="https://lanyard.cnrad.dev/api/1259520083919638583?bg=202277&showDisplayName=true&idleMessage=Going%20at%20your%20own%20pace%20in%20a%20world%20that%E2%80%99s%20always%20rushing%20is%20a%20superpower%20" width="227" height="127" />
   <br>
   <br>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RkMzdmMzF1dXNtenI5ZGV5ZDBvdzVqdDQ1dm9hYWc3c2FhbXBvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EMpPEre2PqFy8GkOZE/giphy.gif" width="227" height="127" />
