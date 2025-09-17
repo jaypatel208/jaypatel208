@@ -31,6 +31,8 @@
       <br>
       LinkedIn:
       <a href="https://www.linkedin.com/in/jaypatel208/">jaypatel208</a><br>
+      Fiverr:
+      <a href="https://www.fiverr.com/jaypatel_208">jaypatel_208</a><br>
       Stackoverflow:
       <a href="https://stackoverflow.com/users/15808334/jay-patel">users/15808334</a><br>
       Medium:
